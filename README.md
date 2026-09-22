@@ -420,13 +420,43 @@ Created structured pivot tables for business analysis.
 
 <br>
 
-<!-- Add your dashboard screenshot as dashboard.png in the repository -->
-
-<!--
 <p align="center">
-  <img src="dashboard.png" width="95%">
+  <img src="dashboard-overall.png" width="95%">
 </p>
--->
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### 📅 2024 Dashboard
+
+<img src="dashboard-2024.png" width="100%">
+
+</td>
+
+<td align="center" width="50%">
+
+### 🌎 2024 Dashboard — Atlantic & Gulf
+
+<img src="dashboard-2024-atlantic-gulf.png" width="100%">
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+
+### 📈 2025 Dashboard
+
+<img src="dashboard-2025.png" width="70%">
+
+</p>
 
 </div>
 
@@ -573,21 +603,21 @@ The primary objective of this project is to transform raw sales data into meanin
 
 <td align="center" width="50%">
 
-### 🏆 Microsoft Power BI
+<h3>🏆 Microsoft Power BI</h3>
 
-**Certified Microsoft Power BI Professional**
+<p><b>Certified Microsoft Power BI Professional</b></p>
 
-*Himalaya Upskilling & Research Center*
+<i>Himalaya Upskilling & Research Center</i>
 
 </td>
 
 <td align="center" width="50%">
 
-### 🤖 AI Fluency
+<h3>🤖 AI Fluency</h3>
 
-**AI Fluency: Framework & Foundations**
+<p><b>AI Fluency: Framework & Foundations</b></p>
 
-*Anthropic*
+<i>Anthropic</i>
 
 </td>
 
@@ -597,21 +627,21 @@ The primary objective of this project is to transform raw sales data into meanin
 
 <td align="center" width="50%">
 
-### 📊 Data Mining & Business Analytics
+<h3>📊 Data Mining & Business Analytics</h3>
 
-**Data Mining & Business Analytics**
+<p><b>Data Mining & Business Analytics</b></p>
 
-*NPTEL SWAYAM*
+<i>NPTEL SWAYAM</i>
 
 </td>
 
 <td align="center" width="50%">
 
-### 📈 Getting Started with Data
+<h3>📄 Getting Started with Data</h3>
 
-**Getting Started with Data**
+<p><b>Getting Started with Data</b></p>
 
-*IBM SkillsBuild*
+<i>IBM SkillsBuild</i>
 
 </td>
 
@@ -621,23 +651,28 @@ The primary objective of this project is to transform raw sales data into meanin
 
 <td align="center" width="50%">
 
-### 🤖 AI Fundamentals
+<h3>🤖 AI Fundamentals</h3>
 
-**AI Fundamentals: Foundations for Understanding AI**
+<p><b>AI Fundamentals: Foundations for Understanding AI</b></p>
 
-*IBM SkillsBuild*
+<i>IBM SkillsBuild</i>
 
 </td>
 
 <td align="center" width="50%">
 
+<h3>🧠 QuizOff 2026</h3>
+
+<p><b>QuizOff 2026: India's Biggest AI Quiz</b></p>
+
+<p>CampusCrew × Unstop</p>
+
+<i>Participation Certificate — July 2026</i>
+
 </td>
 
 </tr>
-
 </table>
-
-</div>
 
 ---
 
