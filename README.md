@@ -464,6 +464,24 @@ Created structured pivot tables for business analysis.
 
 <div align="center">
 
+## 🐍 Python Analysis
+
+Python was used to perform additional data analysis and identify shipping optimization candidates without changing the existing Excel dashboard.
+
+### Key Python Analysis
+- Data quality validation
+- Year-wise and monthly performance
+- Region, division and ship-mode analysis
+- Product, customer and state analysis
+- Lead-time analysis
+- Gross-margin analysis
+- Shipping optimization candidate identification
+
+### Shipping Optimization
+High-value product–state combinations with above-average lead times were identified for factory assignment or shipping-route review.
+
+> **Note:** The current dataset does not contain factory location, factory capacity, or existing factory-assignment data. Therefore, specific factory relocation recommendations require additional factory and distance data.
+
 ## 💡 Business Insight Areas
 
 <table>
