@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍬 Nassau Candy Data Analysis
+# Nassau Candy Data Analysis
 
 ### Sales Analytics • Business Insights • Data Visualization
 
@@ -9,7 +9,8 @@
 ![Project](https://img.shields.io/badge/Project-Nassau%20Candy%20Analysis-7B2CBF?style=for-the-badge)
 ![Records](https://img.shields.io/badge/Records-10%2C194-5A189A?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge)
+![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github)
 
 <br>
 
@@ -26,8 +27,7 @@
 
 <td align="center" width="25%">
 
-### 📊
-**Data Analysis**
+### Data Analysis
 
 Sales & Business Insights
 
@@ -35,8 +35,7 @@ Sales & Business Insights
 
 <td align="center" width="25%">
 
-### 📦
-**Product Analysis**
+### Product Analysis
 
 Product Performance
 
@@ -44,8 +43,7 @@ Product Performance
 
 <td align="center" width="25%">
 
-### 👥
-**Customer Analysis**
+### Customer Analysis
 
 Customer Insights
 
@@ -53,8 +51,7 @@ Customer Insights
 
 <td align="center" width="25%">
 
-### 🌎
-**Regional Analysis**
+### Regional Analysis
 
 Geographic Performance
 
@@ -67,24 +64,34 @@ Geographic Performance
 
 ---
 
-## 📌 Project Overview
+<div align="center">
+
+# Project Overview
+
+</div>
+
+<div align="center">
 
 The **Nassau Candy Data Analysis** project focuses on analyzing sales, profitability, customer, product, regional, and operational performance using a real-world candy distribution dataset.
 
-The project transforms raw transactional data into structured analysis and an interactive dashboard to identify important business patterns, performance trends, and key business insights.
+<br>
+
+The project transforms raw transactional data into structured analysis, interactive Excel dashboards, and additional Python-based analytical models to identify business patterns, performance trends, and potential optimization opportunities.
+
+</div>
 
 ---
 
 <div align="center">
 
-## 🧰 Dataset & Tools Used
+# Dataset & Tools Used
 
 <table>
 <tr>
 
 <td align="center" width="50%">
 
-### 📁 Dataset
+### Dataset
 
 **Nassau Candy Distributor.csv**
 
@@ -94,7 +101,7 @@ The project transforms raw transactional data into structured analysis and an in
 
 <td align="center" width="50%">
 
-### 🛠️ Tools Used
+### Tools Used
 
 **Microsoft Excel**
 
@@ -103,6 +110,8 @@ The project transforms raw transactional data into structured analysis and an in
 **Pandas**
 
 **Matplotlib**
+
+**Scikit-learn**
 
 **GitHub**
 
@@ -119,7 +128,7 @@ The project transforms raw transactional data into structured analysis and an in
 
 <div align="center">
 
-## 🔄 Analysis Workflow
+# Analysis Workflow
 
 <table>
 <tr>
@@ -127,6 +136,7 @@ The project transforms raw transactional data into structured analysis and an in
 <td align="center">
 
 ### 01
+
 **Raw Data**
 
 </td>
@@ -136,6 +146,7 @@ The project transforms raw transactional data into structured analysis and an in
 <td align="center">
 
 ### 02
+
 **Data Preparation**
 
 </td>
@@ -145,6 +156,7 @@ The project transforms raw transactional data into structured analysis and an in
 <td align="center">
 
 ### 03
+
 **Pivot Analysis**
 
 </td>
@@ -154,6 +166,7 @@ The project transforms raw transactional data into structured analysis and an in
 <td align="center">
 
 ### 04
+
 **Visualization**
 
 </td>
@@ -163,6 +176,17 @@ The project transforms raw transactional data into structured analysis and an in
 <td align="center">
 
 ### 05
+
+**Python Analysis**
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### 06
+
 **Business Insights**
 
 </td>
@@ -176,16 +200,14 @@ The project transforms raw transactional data into structured analysis and an in
 
 <div align="center">
 
-## 🧹 Data Preparation
+# Data Preparation
 
 <table>
 <tr>
 
 <td align="center" width="33%">
 
-### 🧹
-
-**Data Cleaning**
+### Data Cleaning
 
 Prepared and cleaned the raw dataset for analysis.
 
@@ -193,9 +215,7 @@ Prepared and cleaned the raw dataset for analysis.
 
 <td align="center" width="33%">
 
-### 🔍
-
-**Data Validation**
+### Data Validation
 
 Checked missing values and duplicate records.
 
@@ -203,9 +223,7 @@ Checked missing values and duplicate records.
 
 <td align="center" width="33%">
 
-### 📅
-
-**Date Preparation**
+### Date Preparation
 
 Prepared order and shipping dates for time-based analysis.
 
@@ -217,9 +235,7 @@ Prepared order and shipping dates for time-based analysis.
 
 <td align="center" width="33%">
 
-### ⏱️
-
-**Lead Time**
+### Lead Time
 
 Calculated shipping lead time using order and ship dates.
 
@@ -227,9 +243,7 @@ Calculated shipping lead time using order and ship dates.
 
 <td align="center" width="33%">
 
-### 🧮
-
-**Calculated Fields**
+### Calculated Fields
 
 Created required calculated fields for analysis.
 
@@ -237,9 +251,7 @@ Created required calculated fields for analysis.
 
 <td align="center" width="33%">
 
-### 📊
-
-**Pivot Analysis**
+### Pivot Analysis
 
 Created structured pivot tables for business analysis.
 
@@ -254,30 +266,37 @@ Created structured pivot tables for business analysis.
 
 <div align="center">
 
-## 📊 Analysis Areas
+# Analysis Areas
 
 <table>
 <tr>
 
 <td align="center" width="50%">
 
-### 💰 Sales & Financial Analysis
+### Sales & Financial Analysis
 
-**Sales**  
-**Units**  
-**Gross Profit**  
-**Cost**  
+**Sales**
+
+**Units**
+
+**Gross Profit**
+
+**Cost**
+
 **Gross Margin**
 
 </td>
 
 <td align="center" width="50%">
 
-### 📦 Product Performance
+### Product Performance
 
-**Product Sales**  
-**Product Units**  
-**Gross Profit**  
+**Product Sales**
+
+**Product Units**
+
+**Gross Profit**
+
 **Gross Margin**
 
 </td>
@@ -288,26 +307,32 @@ Created structured pivot tables for business analysis.
 
 <td align="center" width="50%">
 
-### 👥 Customer Performance
+### Customer Performance
 
-**Customer Sales**  
-**Top Customers**  
+**Customer Sales**
+
+**Top Customers**
+
 **Sales Contribution**
 
 </td>
 
 <td align="center" width="50%">
 
-### 🌎 Regional & Operational Analysis
+### Regional & Operational Analysis
 
-**Region Performance**  
-**State Performance**  
-**Division Performance**  
+**Region Performance**
+
+**State Performance**
+
+**Division Performance**
+
 **Lead Time Analysis**
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
@@ -316,102 +341,53 @@ Created structured pivot tables for business analysis.
 
 <div align="center">
 
-## 📈 Dashboard
+# Dashboard
 
 <table>
 <tr>
 
 <td align="center" width="33%">
 
-### 💳 KPI Cards
+### KPI Cards
 
-**Total Sales**  
-**Total Units**  
-**Total Gross Profit**  
-**Average Lead Time**  
-**Gross Margin**  
+**Total Sales**
+
+**Total Units**
+
+**Total Gross Profit**
+
+**Average Lead Time**
+
+**Gross Margin**
+
 **Top State by Sales**
 
 </td>
 
 <td align="center" width="33%">
 
-### 🎛️ Filters
+### Filters
 
-**Year**  
+**Year**
+
 **Region**
 
 </td>
 
 <td align="center" width="33%">
 
-### 📊 Visual Analysis
+### Visual Analysis
 
-**Year-wise Performance**  
-**Product Performance**  
-**Customer Performance**  
+**Year-wise Performance**
+
+**Product Performance**
+
+**Customer Performance**
+
 **Regional Performance**
 
 </td>
 
-</tr>
-</table>
-
-</div>
-
-### 📌 Dashboard Features
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center"><b>🎛️ Year & Region Slicers</b></td>
-<td align="center">Interactive filtering</td>
-</tr>
-
-<tr>
-<td align="center"><b>📈 Year-wise Sales & Gross Profit</b></td>
-<td align="center">Yearly performance</td>
-</tr>
-
-<tr>
-<td align="center"><b>📦 Product Performance</b></td>
-<td align="center">Product-level analysis</td>
-</tr>
-
-<tr>
-<td align="center"><b>👥 Top 5 Customers</b></td>
-<td align="center">Customer contribution</td>
-</tr>
-
-<tr>
-<td align="center"><b>🏢 Division Performance</b></td>
-<td align="center">Division comparison</td>
-</tr>
-
-<tr>
-<td align="center"><b>⏱️ Average Lead Time</b></td>
-<td align="center">Operational performance</td>
-</tr>
-
-<tr>
-<td align="center"><b>📅 Monthly Performance</b></td>
-<td align="center">Monthly trends</td>
-</tr>
-
-<tr>
-<td align="center"><b>🌎 Region-wise Sales</b></td>
-<td align="center">Regional comparison</td>
-</tr>
-
-<tr>
-<td align="center"><b>📍 Sales by State</b></td>
-<td align="center">Geographic analysis</td>
-</tr>
-
-<tr>
-<td align="center"><b>💹 Product-wise Gross Margin</b></td>
-<td align="center">Product profitability</td>
 </tr>
 
 </table>
@@ -422,9 +398,90 @@ Created structured pivot tables for business analysis.
 
 <div align="center">
 
-## 🖼️ Dashboard Preview
+## Dashboard Features
 
-### 📊 Interactive Sales & Business Performance Dashboard
+<table>
+<tr>
+
+<td align="center"><b>Year & Region Slicers</b></td>
+<td align="center">Interactive filtering</td>
+
+</tr>
+
+<tr>
+
+<td align="center"><b>Year-wise Sales & Gross Profit</b></td>
+<td align="center">Yearly performance</td>
+
+</tr>
+
+<tr>
+
+<td align="center"><b>Product Performance</b></td>
+<td align="center">Product-level analysis</td>
+
+</tr>
+
+<tr>
+
+<td align="center"><b>Top 5 Customers</b></td>
+<td align="center">Customer contribution</td>
+
+</tr>
+
+<tr>
+
+<td align="center"><b>Division Performance</b></td>
+<td align="center">Division comparison</td>
+
+</tr>
+
+<tr>
+
+<td align="center"><b>Average Lead Time</b></td>
+<td align="center">Operational performance</td>
+
+</tr>
+
+<tr>
+
+<td align="center"><b>Monthly Performance</b></td>
+<td align="center">Monthly trends</td>
+
+</tr>
+
+<tr>
+
+<td align="center"><b>Region-wise Sales</b></td>
+<td align="center">Regional comparison</td>
+
+</tr>
+
+<tr>
+
+<td align="center"><b>Sales by State</b></td>
+<td align="center">Geographic analysis</td>
+
+</tr>
+
+<tr>
+
+<td align="center"><b>Product-wise Gross Margin</b></td>
+<td align="center">Product profitability</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+# Dashboard Preview
+
+### Interactive Sales & Business Performance Dashboard
 
 <br>
 
@@ -439,7 +496,7 @@ Created structured pivot tables for business analysis.
 
 <td align="center" width="50%">
 
-### 📅 2024 Dashboard
+### 2024 Dashboard
 
 <img src="dashboard-2024.png" width="100%">
 
@@ -447,23 +504,22 @@ Created structured pivot tables for business analysis.
 
 <td align="center" width="50%">
 
-### 🌎 2024 Dashboard — Atlantic & Gulf
+### 2024 Dashboard — Atlantic & Gulf
 
 <img src="dashboard-2024-atlantic-gulf.png" width="100%">
 
 </td>
 
 </tr>
+
 </table>
 
 <br>
 
+### 2025 Dashboard
+
 <p align="center">
-
-### 📈 2025 Dashboard
-
-<img src="dashboard-2025.png" width="70%">
-
+  <img src="dashboard-2025.png" width="75%">
 </p>
 
 </div>
@@ -472,40 +528,91 @@ Created structured pivot tables for business analysis.
 
 <div align="center">
 
-## 🐍 Python Analysis
+# Python Analysis
 
-Python was used to perform additional data analysis and identify shipping optimization candidates without changing the existing Excel dashboard.
+</div>
 
-### Key Python Analysis
+<div align="center">
 
-- Data quality validation
-- Year-wise sales analysis
-- Region-wise performance analysis
-- Ship-mode analysis
-- Product performance analysis
-- State-level analysis
-- Lead-time analysis
-- Gross-margin analysis
-- Shipping optimization candidate identification
+Python was used to perform additional data analysis, predictive modeling, shipping optimization analysis, and product & shipping clustering without changing the existing Excel dashboard.
 
-### 📊 Key Python Results
+</div>
+
+<br>
+
+<div align="center">
+
+## Key Python Analysis
+
+<p align="center">
+• Data quality validation
+</p>
+
+<p align="center">
+• Year-wise sales analysis
+</p>
+
+<p align="center">
+• Region-wise performance analysis
+</p>
+
+<p align="center">
+• Ship-mode analysis
+</p>
+
+<p align="center">
+• Product performance analysis
+</p>
+
+<p align="center">
+• State-level analysis
+</p>
+
+<p align="center">
+• Lead-time analysis
+</p>
+
+<p align="center">
+• Gross-margin analysis
+</p>
+
+<p align="center">
+• Shipping optimization candidate identification
+</p>
+
+<p align="center">
+• Predictive analysis
+</p>
+
+<p align="center">
+• Product and shipping clustering
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## Key Python Results
 
 <table>
+
 <tr>
 
 <td align="center" width="50%">
 
-**Total Records**
+### Total Records
 
-10,194
+**10,194**
 
 </td>
 
 <td align="center" width="50%">
 
-**Total Sales**
+### Total Sales
 
-$141,783.63
+**$141,783.63**
 
 </td>
 
@@ -515,37 +622,17 @@ $141,783.63
 
 <td align="center" width="50%">
 
-**Total Units**
+### Total Units
 
-38,654
-
-</td>
-
-<td align="center" width="50%">
-
-**Total Gross Profit**
-
-$93,442.80
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="50%">
-
-**Total Cost**
-
-$48,340.83
+**38,654**
 
 </td>
 
 <td align="center" width="50%">
 
-**Average Lead Time**
+### Total Gross Profit
 
-1,320.84 days
+**$93,442.80**
 
 </td>
 
@@ -555,17 +642,17 @@ $48,340.83
 
 <td align="center" width="50%">
 
-**Average Gross Margin**
+### Total Cost
 
-66.51%
+**$48,340.83**
 
 </td>
 
 <td align="center" width="50%">
 
-**Top Region by Sales**
+### Average Lead Time
 
-Pacific
+**1,320.84 days**
 
 </td>
 
@@ -575,17 +662,37 @@ Pacific
 
 <td align="center" width="50%">
 
-**Top State by Sales**
+### Average Gross Margin
 
-California
+**66.51%**
 
 </td>
 
 <td align="center" width="50%">
 
-**Top Product by Sales**
+### Top Region by Sales
 
-Wonka Bar - Triple Dazzle Caramel
+**Pacific**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### Top State by Sales
+
+**California**
+
+</td>
+
+<td align="center" width="50%">
+
+### Top Product by Sales
+
+**Wonka Bar - Triple Dazzle Caramel**
 
 </td>
 
@@ -593,43 +700,19 @@ Wonka Bar - Triple Dazzle Caramel
 
 </table>
 
-### 📅 Year-wise Sales
+</div>
+
+---
+
+<div align="center">
+
+## Year-wise Sales
 
 **2024:** $57,956.20
 
+<br>
+
 **2025:** $83,827.43
-
-### 📈 Python Visualizations
-
-<p align="center">
-
-<img src="python_yearly_sales.png" width="80%">
-
-</p>
-
-<p align="center">
-
-<img src="python_region_sales.png" width="80%">
-
-</p>
-
-<p align="center">
-
-<img src="python_top_products.png" width="80%">
-
-</p>
-
-<p align="center">
-
-<img src="python_ship_mode_sales.png" width="80%">
-
-</p>
-
-### 🚚 Shipping Optimization
-
-High-value product–state combinations with comparatively high lead times were identified for further factory assignment or shipping-route review.
-
-> **Note:** The current dataset does not contain factory location, factory capacity, existing factory-assignment, or actual shipping-distance data. Therefore, the analysis identifies potential candidates for further investigation rather than making a definitive factory relocation recommendation.
 
 </div>
 
@@ -637,14 +720,133 @@ High-value product–state combinations with comparatively high lead times were 
 
 <div align="center">
 
-## 💡 Business Insight Areas
+# Python Visualizations
+
+<br>
+
+### Year-wise Sales
+
+<img src="python_yearly_sales.png" width="80%">
+
+<br><br>
+
+### Region-wise Sales
+
+<img src="python_region_sales.png" width="80%">
+
+<br><br>
+
+### Top Products
+
+<img src="python_top_products.png" width="80%">
+
+<br><br>
+
+### Ship Mode Sales
+
+<img src="python_ship_mode_sales.png" width="80%">
+
+</div>
+
+---
+
+<div align="center">
+
+# Shipping Optimization
+
+</div>
+
+<div align="center">
+
+High-value product–state combinations with comparatively high lead times were identified for further factory assignment or shipping-route review.
+
+</div>
+
+> **Note:** The current dataset does not contain factory location, factory capacity, existing factory assignment, or actual shipping-distance data. Therefore, the analysis identifies potential candidates for further investigation rather than making a definitive factory relocation recommendation.
+
+---
+
+<div align="center">
+
+# Predictive Analysis
+
+</div>
+
+<div align="center">
+
+Python-based predictive modeling was performed to analyze sales-related patterns and evaluate the potential use of machine learning techniques for business analysis.
+
+<br>
+
+The predictive analysis is included as an additional analytical layer alongside the Excel dashboard and descriptive Python analysis.
+
+</div>
+
+---
+
+<div align="center">
+
+# Product & Shipping Clustering
+
+</div>
+
+<div align="center">
+
+K-Means clustering was used to group products based on sales, units, cost, and shipping lead-time characteristics.
+
+<br>
+
+The clustering analysis helps identify groups of products with similar sales and operational behavior.
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Clustering Output
+
+**15 Products Analyzed**
+
+<br>
+
+**4 Product Clusters Identified**
+
+<br>
+
+**Features Used**
+
+<br>
+
+Sales • Units • Cost • Average Lead Time • Average Sales
+
+</div>
+
+<br>
+
+<div align="center">
+
+The clustering results are available in:
+
+<br>
+
+**Nassau_Clustering_Results.xlsx**
+
+</div>
+
+---
+
+<div align="center">
+
+# Business Insight Areas
 
 <table>
+
 <tr>
 
 <td align="center" width="50%">
 
-### 💰 Revenue
+### Revenue
 
 Identify sales trends and high-performing periods.
 
@@ -652,7 +854,7 @@ Identify sales trends and high-performing periods.
 
 <td align="center" width="50%">
 
-### 📦 Products
+### Products
 
 Identify products contributing significantly to sales and profit.
 
@@ -664,7 +866,7 @@ Identify products contributing significantly to sales and profit.
 
 <td align="center" width="50%">
 
-### 👥 Customers
+### Customers
 
 Understand major customer contributions to overall sales.
 
@@ -672,41 +874,82 @@ Understand major customer contributions to overall sales.
 
 <td align="center" width="50%">
 
-### 🌎 Regions
+### Regions
 
 Compare regional and state-level business performance.
 
 </td>
 
 </tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### Operations
+
+Analyze shipping lead times and operational patterns.
+
+</td>
+
+<td align="center" width="50%">
+
+### Optimization
+
+Identify potential shipping and product-level optimization opportunities.
+
+</td>
+
+</tr>
+
 </table>
 
 </div>
 
 ---
 
-## 🎯 Project Objective
+<div align="center">
 
-The primary objective of this project is to transform raw sales data into meaningful business insights through structured data preparation, analysis, and visualization.
+# Project Objective
+
+</div>
+
+<div align="center">
+
+The primary objective of this project is to transform raw sales data into meaningful business insights through structured data preparation, analysis, visualization, and additional Python-based analytical techniques.
+
+</div>
+
+<br>
 
 <div align="center">
 
 <table>
+
 <tr>
 
-<td align="center">💰 Sales Performance</td>
-<td align="center">📈 Profitability</td>
-<td align="center">📦 Product Contribution</td>
+<td align="center">Sales Performance</td>
+<td align="center">Profitability</td>
+<td align="center">Product Contribution</td>
 
 </tr>
 
 <tr>
 
-<td align="center">👥 Customer Contribution</td>
-<td align="center">🌎 Regional Performance</td>
-<td align="center">⏱️ Operational Lead Time</td>
+<td align="center">Customer Contribution</td>
+<td align="center">Regional Performance</td>
+<td align="center">Operational Lead Time</td>
 
 </tr>
+
+<tr>
+
+<td align="center">Shipping Optimization</td>
+<td align="center">Predictive Analysis</td>
+<td align="center">Product Clustering</td>
+
+</tr>
+
 </table>
 
 </div>
@@ -715,26 +958,27 @@ The primary objective of this project is to transform raw sales data into meanin
 
 <div align="center">
 
-## 📂 Project Structure
+# Project Structure
 
 <table>
+
 <tr>
 
 <td align="center">
 
-📄 **Nassau Candy Distributor.csv**
+Nassau Candy Distributor.csv
 
 </td>
 
 <td align="center">
 
-🐍 **nassau_analysis.py**
+nassau_analysis.py
 
 </td>
 
 <td align="center">
 
-📊 **Nassau_Python_Analysis.xlsx**
+Nassau_Python_Analysis.xlsx
 
 </td>
 
@@ -744,19 +988,63 @@ The primary objective of this project is to transform raw sales data into meanin
 
 <td align="center">
 
-🚚 **Nassau_Shipping_Optimization_Candidates.xlsx**
+Nassau_Shipping_Optimization_Candidates.xlsx
 
 </td>
 
 <td align="center">
 
-📝 **README.md**
+nassau_predictive_model.py
 
 </td>
 
 <td align="center">
 
-📊 **Excel Dashboard**
+Nassau_Predictive_Model_Results.xlsx
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+nassau_clustering.py
+
+</td>
+
+<td align="center">
+
+Nassau_Clustering_Results.xlsx
+
+</td>
+
+<td align="center">
+
+README.md
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+Excel Dashboard
+
+</td>
+
+<td align="center">
+
+Python Visualizations
+
+</td>
+
+<td align="center">
+
+GitHub Repository
 
 </td>
 
@@ -770,7 +1058,7 @@ The primary objective of this project is to transform raw sales data into meanin
 
 <div align="center">
 
-## 🧠 Skills Demonstrated
+# Skills Demonstrated
 
 <br>
 
@@ -780,9 +1068,13 @@ The primary objective of this project is to transform raw sales data into meanin
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python%20Basics-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <br><br>
+
+**Data Analysis • Data Visualization • Excel • Python • Pandas • Matplotlib • Scikit-learn**
+
+<br>
 
 **Analytical Skills • Critical Thinking • Decision Making • Active Listening • Adaptability • Project Management**
 
@@ -792,14 +1084,15 @@ The primary objective of this project is to transform raw sales data into meanin
 
 <div align="center">
 
-## 🎓 Certifications
+# Certifications
 
 <table>
+
 <tr>
 
 <td align="center" width="50%">
 
-<h3>🏆 Microsoft Power BI</h3>
+<h3>Microsoft Power BI</h3>
 
 <p><b>Certified Microsoft Power BI Professional</b></p>
 
@@ -809,7 +1102,7 @@ The primary objective of this project is to transform raw sales data into meanin
 
 <td align="center" width="50%">
 
-<h3>🤖 AI Fluency</h3>
+<h3>AI Fluency</h3>
 
 <p><b>AI Fluency: Framework & Foundations</b></p>
 
@@ -823,7 +1116,7 @@ The primary objective of this project is to transform raw sales data into meanin
 
 <td align="center" width="50%">
 
-<h3>📊 Data Mining & Business Analytics</h3>
+<h3>Data Mining & Business Analytics</h3>
 
 <p><b>Data Mining & Business Analytics</b></p>
 
@@ -833,7 +1126,7 @@ The primary objective of this project is to transform raw sales data into meanin
 
 <td align="center" width="50%">
 
-<h3>📄 Getting Started with Data</h3>
+<h3>Getting Started with Data</h3>
 
 <p><b>Getting Started with Data</b></p>
 
@@ -847,7 +1140,7 @@ The primary objective of this project is to transform raw sales data into meanin
 
 <td align="center" width="50%">
 
-<h3>🤖 AI Fundamentals</h3>
+<h3>AI Fundamentals</h3>
 
 <p><b>AI Fundamentals: Foundations for Understanding AI</b></p>
 
@@ -857,7 +1150,7 @@ The primary objective of this project is to transform raw sales data into meanin
 
 <td align="center" width="50%">
 
-<h3>🧠 QuizOff 2026</h3>
+<h3>QuizOff 2026</h3>
 
 <p><b>QuizOff 2026: India's Biggest AI Quiz</b></p>
 
@@ -871,13 +1164,15 @@ The primary objective of this project is to transform raw sales data into meanin
 
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
-## 👨‍💻 About Me
+# About Me
 
-# Aditya Gupta
+## Aditya Gupta
 
 ### Data Analyst | Business Analyst
 
@@ -889,7 +1184,7 @@ Passionate about transforming data into meaningful insights and supporting data-
 
 <div align="center">
 
-## 🚀 Career Focus
+# Career Focus
 
 <br>
 
@@ -907,14 +1202,14 @@ Passionate about transforming data into meaningful insights and supporting data-
 
 <div align="center">
 
-### ⭐ Thank You for Visiting
+# Thank You for Visiting
 
-**Nassau Candy Data Analysis Project**
+### Nassau Candy Data Analysis Project
 
 *Made with Data • Analysis • Curiosity*
 
 <br>
 
-**© Aditya Gupta**
+**Aditya Gupta**
 
 </div>
